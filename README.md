@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
----
+
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Github Statistics</summary>
