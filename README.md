@@ -1,6 +1,12 @@
 ### 🕊 Hello, I'm 𝕹𝕰𝕺         
-                     
-                            
+                  
+                  
+                  # BREAK
+
+# Projects will not receive updates for a while.
+# Last updated: 08.02.2021 
+
+# 𝐼 𝒲𝐼𝐿𝐿 𝐵𝐸 𝐵𝒜𝒞𝒦 𝒜𝒢𝒜𝐼𝒩, 𝐿𝒪𝒱𝐸
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My İnterests</summary>
