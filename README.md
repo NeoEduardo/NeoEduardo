@@ -1,4 +1,4 @@
-### 🕊 Hello, I'm 𝕹𝕰𝕺         
+### 🕊        
                   
   # Projects will not receive updates for a while.
 # Last updated: 08.02.2021 
@@ -39,3 +39,5 @@
   ![The languages most used by Neo Eduardo](https://github-readme-stats.vercel.app/api/top-langs/?username=neoeduardo&layout=compact&theme=dark)
 
 </details>
+
+🕊
