@@ -4,7 +4,7 @@
 # Last updated: 08.02.2021 
 
 # I WILL BE BACK AGAIN, LOVE ❤
-     # (so, I hope)
+     # so, I hope
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My İnterests</summary>
