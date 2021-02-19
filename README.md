@@ -4,13 +4,8 @@
  |     |  __|| |  | |
  | |\  | |___| |__| |
  |_| \_|______\____/ 
-                     
-                     
-                     
-                     
-                     
-                    
-   
+               
+               
    <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Github Statistics</summary>
 
