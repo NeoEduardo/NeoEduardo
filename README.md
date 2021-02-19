@@ -1,11 +1,15 @@
-# 🕊        
-                  
-  # Projects will not receive updates for a while.
-# Last updated: 08.02.2021 
-
-# ~~I WILL BE BACK AGAIN~~ BEST REGARDS ღ 
-     
-   # so, I hope
+  _   _ ______ ____  
+ | \ | |  ____/ __ \ 
+ |  \| | |__ | |  | |
+ |     |  __|| |  | |
+ | |\  | |___| |__| |
+ |_| \_|______\____/ 
+                     
+                     
+                     
+                     
+                     
+                    
    
    <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Github Statistics</summary>
