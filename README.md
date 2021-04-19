@@ -10,9 +10,6 @@
 <samp>
   
 
-  <p align="center">
-    <a href="https://github.com/neoeduardo"><img src="https://visitor-badge.laobi.icu/badge?page_id=neoeduardo" alt="Visit"></a>
-  </p>
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
@@ -20,7 +17,7 @@
       <i>(Click to expand!)</i>
     </summary>
 
-  ![Manjaro](https://img.shields.io/badge/fedora-cD1?style=for-the-badge&logo=fedora&logoColor=EF7F1A&color=2B2A29)
+  ![Debian](https://img.shields.io/badge/debian-cD1?style=for-the-badge&logo=debian&logoColor=EF7F1A&color=2B2A29)
   ![KDE](https://img.shields.io/badge/kde-cD1?style=for-the-badge&logo=kde&logoColor=EF7F1A&color=2B2A29)
   ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
   ![Flask](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&logoColor=EF7F1A&color=2B2A29)
