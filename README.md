@@ -1,11 +1,13 @@
+==Test==
+
 <samp>
   
 
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      ==<b>My İnterests</b>==
-      <i>==(Click to expand!)==</i>
+      <b>My İnterests</b>
+      <i>(Click to expand!)</i>
     </summary>
 
   ![Manjaro](https://img.shields.io/badge/manjaro-cD1?style=for-the-badge&logo=manjaro&logoColor=EF7F1A&color=2B2A29)
@@ -27,8 +29,8 @@
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>==Github Statistics==</b>
-      <i>==(Click to expand!)==</i>
+      <b>Github Statistics</b>
+      <i>(Click to expand!)</i>
     </summary>
 
   ![Neo's Github Stats](https://github-readme-stats.vercel.app/api?username=neoeduardo&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
