@@ -4,7 +4,7 @@
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>==My İnterests==</b>
+      ==<b>My İnterests</b>==
       <i>==(Click to expand!)==</i>
     </summary>
 
