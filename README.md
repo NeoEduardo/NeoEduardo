@@ -34,7 +34,7 @@
     </summary>
 
   ![Neo's Github Stats](https://github-readme-stats.vercel.app/api?username=neoeduardo&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
-  ![Neo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neoeduardo&langs_count=8&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
+  ![Neo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neoeduardo&langs_count=8&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
 
   </details>
 </samp>
